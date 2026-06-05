@@ -1,6 +1,6 @@
 # 🤖 WhatsApp Image Agent
 
-Agente inteligente desarrollado en Python capaz de analizar imágenes recibidas y generar respuestas automáticas utilizando Inteligencia Artificial.
+Automatización de envío de imágenes por WhatsApp mediante la API de Twilio, implementando validación de archivos, configuración mediante variables de entorno, manejo de errores y registro de eventos.
 
 ## 🚀 Descripción
 
