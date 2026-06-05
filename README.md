@@ -20,6 +20,7 @@ El objetivo es demostrar habilidades en:
 ```bash
 whatsapp-image-agent/
 │
+├── .venv         # credenciales
 ├── agent.py      # Lógica principal del agente
 ├── main.py       # Punto de entrada de la aplicación
 ├── foto.jpg      # Imagen de ejemplo
